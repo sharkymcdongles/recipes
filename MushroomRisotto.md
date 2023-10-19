@@ -31,31 +31,34 @@
 
 ---
 
-Sienirisotto
+# Sienirisotto
 
-Ainekset:
-1 pullo kuivaa valkoviiniä (Pinot Grigio tai Sauvignon Blanc; valitse laadukas viini, jota nauttisit juomisesta)
-200g Arborio- tai Carnaroli-riisiä (Carnaroli on suurempijyväinen ja anteeksiantavampi)
-4 salottisipulia, hienonnettuna
-100g raastettua parmesaanijuustoa (määrä säädettävissä maun mukaan)
-1 tl sahramia, uutettuna 1 rkl kiehuvaa vettä
-Kanttarellisieniä, puhdistettuna ja pestyinä (määrä on joustava)
-1 litra kanalientä, sienilientä tai kasvislientä
-80g voita
-Oliiviöljyä
-3 rkl tuoretta persiljaa, hienonnettuna
-Ohjeet:
-Valmista Liemi: Tee pata valitsemastasi liemestä. Kehittyneemmän sieniliemen ohje löytyy täältä. Lisää kombua ekstraksi umami-mauksi.
+## Ainekset:
 
-Huom: Pidä kauha padassa, valmiina käyttöön.
-Valmista Sienet: Paista joko öljyssä tai kokeile uutta suosittua menetelmää, joka löytyy täältä. Älä mausta liikaa. Aseta sivuun.
+- 1 pullo kuivaa valkoviiniä (Pinot Grigio tai Sauvignon Blanc; valitse laadukas viini, jota nauttisit juomisesta)
+- 200g Arborio- tai Carnaroli-riisiä (Carnaroli on suurempijyväinen ja anteeksiantavampi)
+- 4 salottisipulia, hienonnettuna
+- 100g raastettua parmesaanijuustoa (määrä säädettävissä maun mukaan)
+- 1 tl sahramia, uutettuna 1 rkl kiehuvaa vettä
+- Kanttarellisieniä, puhdistettuna ja pestyinä (määrä on joustava)
+- 1 litra kanalientä, sienilientä tai kasvislientä
+- 80g voita
+- Oliiviöljyä
+- 3 rkl tuoretta persiljaa, hienonnettuna
 
-Kypsennä Salottisipulit: Kuullota salottisipulit voissa ja pienessä määrässä oliiviöljyä keskilämmöllä, kunnes ne ovat pehmeitä ja läpikuultavia.
+## Ohjeet:
 
-Valmista Riisi: Lisää riisi pannuun salottisipulin kanssa ja sekoita, kunnes se on hyvin päällystetty ja osittain läpikuultava. Lisää lämpöä, lisää lasillinen valkoviiniä ja keitä, kunnes alkoholi on haihtunut. Sekoita sahrami.
+1. **Valmista Liemi**: Tee pata valitsemastasi liemestä. Kehittyneemmän sieniliemen ohje löytyy [täältä](https://youtu.be/mSuNLVZ7MvE). Lisää kombua ekstraksi umami-mauksi.
+    - *Huom*: Pidä kauha padassa, valmiina käyttöön.
 
-Kypsennä Risotto: Lisää liemestä kauhallinen kerrallaan, sekoittaen ja hauduttaen, kunnes se on haihtunut ennen seuraavan kauhallisen lisäämistä. Jatka, kunnes riisi on kypsää maun mukaan. Koostumuksen tulisi olla hieman löysä tärkkelyksen ansiosta.
+2. **Valmista Sienet**: Paista joko öljyssä tai kokeile uutta suosittua menetelmää, joka löytyy [täältä](https://youtu.be/OPJmJdStvwI). Älä mausta liikaa. Aseta sivuun.
 
-Viimeistely: Sekoita parmesaani ja persilja. Käännä lämpö matalaksi, lisää osa valmistetuista sienistä ja sekoita. Tarjoile kuumana, lopuilla sienillä päällystettynä.
+3. **Kypsennä Salottisipulit**: Kuullota salottisipulit voissa ja pienessä määrässä oliiviöljyä keskilämmöllä, kunnes ne ovat pehmeitä ja läpikuultavia.
 
-Nauti gourmet-sienirisottostasi!
+4. **Valmista Riisi**: Lisää riisi pannuun salottisipulin kanssa ja sekoita, kunnes se on hyvin päällystetty ja osittain läpikuultava. Lisää lämpöä, lisää lasillinen valkoviiniä ja keitä, kunnes alkoholi on haihtunut. Sekoita sahrami.
+
+5. **Kypsennä Risotto**: Lisää liemestä kauhallinen kerrallaan, sekoittaen ja hauduttaen, kunnes se on haihtunut ennen seuraavan kauhallisen lisäämistä. Jatka, kunnes riisi on kypsää maun mukaan. Koostumuksen tulisi olla hieman löysä tärkkelyksen ansiosta.
+
+6. **Viimeistely**: Sekoita parmesaani ja persilja. Käännä lämpö matalaksi, lisää osa valmistetuista sienistä ja sekoita. Tarjoile kuumana, lopuilla sienillä päällystettynä.
+
+Nauti Sienirisottostasi!
